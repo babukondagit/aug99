@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24608" started-at="2018-07-24T07:51:59Z" finished-at="2018-07-24T07:52:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24608" started-at="2018-07-24T07:51:59Z" finished-at="2018-07-24T07:52:24Z">
+      <class name="com.lnt.qa.testcases.VerifySearchResults">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.lnt.qa.testcases.VerifySearchResults@5fdba6f9]" name="setup" is-config="true" duration-ms="14417" started-at="2018-07-24T03:51:59Z" finished-at="2018-07-24T03:52:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPLP()[pri:0, instance:com.lnt.qa.testcases.VerifySearchResults@5fdba6f9]" name="verifyPLP" duration-ms="2380" started-at="2018-07-24T03:52:14Z" finished-at="2018-07-24T03:52:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPLP -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.lnt.qa.testcases.VerifySearchResults@5fdba6f9]" name="teardown" is-config="true" duration-ms="790" started-at="2018-07-24T03:52:16Z" finished-at="2018-07-24T03:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.lnt.qa.testcases.VerifySearchResults -->
+      <class name="com.lnt.qa.testcases.Login">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.lnt.qa.testcases.Login@10d59286]" name="setup" is-config="true" duration-ms="6474" started-at="2018-07-24T03:52:17Z" finished-at="2018-07-24T03:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.lnt.qa.testcases.Login@10d59286]" name="logintest" duration-ms="505" started-at="2018-07-24T03:52:23Z" finished-at="2018-07-24T03:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- com.lnt.qa.testcases.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
